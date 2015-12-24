@@ -1,0 +1,932 @@
+
+192.168.42.11 just requested a GET nrc.nl/
+
+192.168.42.11 just requested a GET www.nrc.nl/
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/styles.main.6b6145a5a6a16e7fd76e.css
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/vendor/modernizr.custom.js
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/vendor/postscribe.min.js
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/vendor.2e2c9cba0bcfcc9d0642.js
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/main.6b6145a5a6a16e7fd76e.js
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/250ebf299820ac77fdd27a9368e88796.svg
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/84c5e94ccd1288b8d54316afa54b80c9.woff2
+
+192.168.42.11 just requested a GET www.nu.nl/
+
+192.168.42.11 just requested a GET www.nu.nl/static/CACHE/css/8b1c3e190229.css
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/advertising.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/CACHE/js/6d1ed54ce192.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/organisms/ntv.advertorial.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/images/logos/logo-sprite.svg
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/advertising.js
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/home/
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/placeholders/230x240-o.png
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/organisms/ntv.advertorial.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/organisms/ntv.advertorial.js
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/72484ec1901bcf3607e9592a1b562828.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/21f6f23646e60e2207023eb728425b28.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/21f6f23646e60e2207023eb728425b28.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/data/popular
+
+192.168.42.11 just requested a GET ads-nrc.adhese.com/json/sl_nrc_home_-nrchomebetweensections2/sl_nrc_home_-nrchomebetweensections/rn8970/fp1632720976/pr1.5/re/ur0068007400740070003a002f002f007700770077002e006e00720063002e006e006c002f/brChrome;Chrome47;Android;phone/dtphone/inrem5;abono/?t=1450982892169
+
+192.168.42.11 just requested a GET images.nrc.nl/5hesC0Mwqyy2F4aOBAAvN1y-b6I=/0x115:2953x1887/640x/s3/static.nrc.nl/wp-content/uploads/2015/12/ANP-35484409.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/UOcA9lAoV4BgaQlLaLzfRklOxqE=/0x11:2000x1211/320x/s3/static.nrc.nl/wp-content/uploads/2015/12/ANP-35435564-1.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/-UdayWczLXKrPItjzoVwoJgUsPY=/320x192/smart/s3/static.nrc.nl/wp-content/uploads/2015/12/ANP-35454340.jpg
+
+192.168.42.11 just requested a GET mab.chartbeat.com/mab_strategy/headline_testing/get_strategy/?host=nrc.nl&domain=nrc.nl&path=%2F
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2F&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&n=1&f=00001&c=0&x=265&m=265&y=12936&o=320&w=471&j=45&R=1&W=0&I=0&E=0&e=0&r=&b=6329&t=lNJ-cBujZBBDEu4KjIlWiEBPSjM1&V=69&i=NRC&tz=-60&_acct=anon&sn=1&EE=0&_
+
+192.168.42.11 just requested a GET images.nrc.nl/6btRr7pDgwnLPX_Ljyl1QQ4GI6Q=/640x384/smart/s3/static.nrc.nl/spoetnik/files/2015/12/topmannenfeatured.jpg
+
+192.168.42.11 just requested a GET www.i.matheranalytics.com/i?e=pv&url=http%3A%2F%2Fwww.nrc.nl%2F&page=NRC&ptype=frontpage&tv=js-2.2.10-c&tna=Mather&aid=v1&p=web&tz=Europe%2FBerlin&lang=en-US&cs=UTF-8&res=320x534&cd=32&cookie=1&f_jquery=1&tid=2c4759ab-41a6-486d-aef7-e71e0d2b7caf&dtm=1450982903147&vp=320x471&ds=320x13291&vid=2&duid=02a5c3b5a2a61039&fp=3131137563&cid=93786&mrk=1585827
+
+192.168.42.11 just requested a GET ads-nrc.adhese.com/track/69545//sl24829/rn8970/ci2/inabono/inrem5/brAndroid/brChrome/brChrome47/brphone/coNL/rgNL07/dmADV0/dtphone/ogcontrol/A20.0.0.0/?t=1450982993024?t=1450982903612
+
+192.168.42.11 just requested a GET track.adform.net/Serving/TrackPoint/?pm=359898&ADFPageName=Artikel0&ADFdivider=%7C&ord=942202236736&Set1=en-US%7Cen-US%7C320x534%7C32&ADFtpmode=2&loc=http%3A%2F%2Fwww.nrc.nl%2F
+
+192.168.42.11 just requested a GET ads-nrc.adhese.com/track/69545//sl24829/rn8970/ci2/inabono/inrem5/brAndroid/brChrome/brChrome47/brphone/coNL/rgNL07/dmADV0/dtphone/ogcontrol/A20.0.0.0/?t=1450982993024?t=1450982903612
+
+192.168.42.11 just requested a GET images.nrc.nl/EjEJn4zXw1IgxGovp-I2YIfuSlA=/320x192/smart/s3/static.nrc.nl/avonden2c.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/vV3NMLz6SLRaFEzsTWgpfr9ply4=/320x192/smart/s3/static.nrc.nl/donleo.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/-zYO03ptkINe1_EkQJE6z9P7K3M=/320x192/smart/s3/static.nrc.nl/boek.jpg
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2F&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&n=1&f=00001&c=0.27&x=1088&m=1088&y=13291&o=320&w=471&j=30&R=1&W=0&I=0&E=12&e=12&r=&b=6329&t=lNJ-cBujZBBDEu4KjIlWiEBPSjM1&V=69&tz=-60&_acct=anon&sn=2&eS=3919&EE=12&_
+
+192.168.42.11 just requested a GET images.nrc.nl/NkE6vvUl3Ion-nbWgxUSN87uIPI=/320x192/smart/s3/static.nrc.nl/gaal2.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/ncUTU33Bs5OnsgFLAMuVpGSX6CY=/640x384/smart/s3/static.nrc.nl/nieuwlevenLayla.jpg
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET images.nrc.nl/xCh_ANqS7bL5k7WFM7mtuDD3po0=/320x192/smart/s3/static.nrc.nl/nieuwlevenbaby.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/MVkpXO3hmlvijHbAZeUSTtlwhlw=/320x192/smart/s3/static.nrc.nl/nieuwlevenDokter.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/j0xrelS-7j2GruVsPaiPOKs-AR8=/640x384/smart/s3/static.nrc.nl/ANP-5889015.jpg
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2F&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&n=1&f=00001&c=0.51&x=2746&m=2746&y=13291&o=320&w=471&j=30&R=1&W=0&I=0&E=22&e=10&r=&b=6329&t=lNJ-cBujZBBDEu4KjIlWiEBPSjM1&V=69&tz=-60&_acct=anon&sn=3&eS=51e7&EE=22&_
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/icons/favicon.ico
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/icons/apple-touch-icon-152x152-precomposed.png
+
+192.168.42.11 just requested a GET ib.adnxs.com/async_usersync?cbfn=AN_async_load
+
+192.168.42.11 just requested a GET images.nrc.nl/HTlsy14A-ll7mEwIsG4KK0DreKE=/0x390:4096x2848/640x/s3/static.nrc.nl/bvhw/files/2015/12/ANP-32194462.jpg
+
+192.168.42.11 just requested a GET ads.yahoo.com/cms/v1?esig=1~17e68b1b86afcfd8436104fe567484ccc2161b0f&nwid=10000602235&sigv=1
+
+192.168.42.11 just requested a GET c.bing.com/c.gif?anx_uid=1540423959176390319&Red3=MSAN_pd
+
+192.168.42.11 just requested a GET ib.adnxs.com/pxj?bidder=108&action=SetMSCookies(%22MUID%3D05B1B49B4D6B6F7431D2B38A496B6C22%7CTOptOut%3D%7CEANON%3DA%253d%2526E%253dFFF%2526W%253d1%22)
+
+192.168.42.11 just requested a GET ib.adnxs.com/mapuid?member=364&user=11027639722596730047
+
+192.168.42.11 just requested a GET www.i.matheranalytics.com/i?e=pp&url=http%3A%2F%2Fwww.nrc.nl%2F&page=NRC&ptype=frontpage&pp_mix=0&pp_max=0&pp_miy=3211&pp_may=3211&pp_ev=scroll&tv=js-2.2.10-c&tna=Mather&aid=v1&p=web&tz=Europe%2FBerlin&lang=en-US&cs=UTF-8&res=320x534&cd=32&cookie=1&f_jquery=1&tid=e3f523d1-67c5-420f-8c34-375df95603cd&dtm=1450982933359&vp=320x471&ds=320x13291&vid=2&duid=02a5c3b5a2a61039&fp=3131137563&cid=93786&mrk=1585827
+
+192.168.42.11 just requested a GET adx.adnxs.com/getuid?http%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dappnexus1%26google_sc%26google_hm%3D%24%7BBASE64_UID_ENC%7D%26google_cm
+
+192.168.42.11 just requested a GET dps.bing.com/AI/Api/v1/UserRest.svc/Provider/1AC1C520-232B-4E3D-B0CC-A52AC15EB7D4/User/1540423959176390319/gif?meta=appNexus
+
+192.168.42.11 just requested a GET cm.g.doubleclick.net/pixel?google_nid=appnexus1&google_sc&google_hm=MTU0MDQyMzk1OTE3NjM5MDMxOQ%3D%3D&google_cm
+
+192.168.42.11 just requested a GET adx.adnxs.com/mapuid?member=181&user=&google_gid=CAESECICoyH8n1fFDfTzelYdCKg&google_cver=1
+
+192.168.42.11 just requested a GET images.nrc.nl/1iHTrLyleVU4IYpFBmwRYFUjEEo=/6x0:560x332/320x/s3/static.nrc.nl/bvhw/files/2015/12/CW8aW45WMAAtLPX.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/NnOJM_7bDbnb3auz9fYmjRig3kQ=/0x38:2126x1314/320x/s3/static.nrc.nl/bvhw/files/2015/12/kinderarbeid.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/8SsKpiGJ6wK1d3yZyUNbOtkABqQ=/0x255:2022x1468/640x/s3/static.nrc.nl/images/2015/12/24/stripped/2412zataliamadou_oud.jpg
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2F&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&n=1&f=00001&c=0.75&x=3904&m=3904&y=13291&o=320&w=471&j=30&R=1&W=0&I=0&E=37&e=15&r=&b=6329&t=lNJ-cBujZBBDEu4KjIlWiEBPSjM1&V=69&tz=-60&_acct=anon&sn=4&eS=2a6d&EE=37&_
+
+192.168.42.11 just requested a GET images.nrc.nl/l0j9bh7pMFoDgxaLcxrmB_N7vno=/0x13:2500x1513/320x/s3/static.nrc.nl/ANP-3755026.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/S5QCFWIzGvfLeRC9swJKQzPCa6c=/0x0:3147x1888/320x/s3/static.nrc.nl/wp-content/uploads/2015/12/ANP-34589085.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/WROR6y3g5nxDWgeZ3lzzt5N6KWM=/0x155:2362x1572/320x/s3/static.nrc.nl/images/2015/12/24/stripped/2412zatgeldermalsen.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/x-H0yARHHb9CnckN9-DUVT0oM_4=/0x0:2756x1654/320x/s3/static.nrc.nl/images/2015/12/23/stripped/2312binbornmandef.jpg
+
+192.168.42.11 just requested a GET www.i.matheranalytics.com/i?e=pp&url=http%3A%2F%2Fwww.nrc.nl%2F&page=NRC&ptype=frontpage&pp_mix=0&pp_max=0&pp_miy=4422&pp_may=4422&pp_ev=scroll&tv=js-2.2.10-c&tna=Mather&aid=v1&p=web&tz=Europe%2FBerlin&lang=en-US&cs=UTF-8&res=320x534&cd=32&cookie=1&f_jquery=1&tid=e0b76b37-310b-42e4-8560-8e139e6092ac&dtm=1450982943351&vp=320x471&ds=320x13291&vid=2&duid=02a5c3b5a2a61039&fp=3131137563&cid=93786&mrk=1585827
+
+192.168.42.11 just requested a GET images.nrc.nl/gRrq99qoKmItEWZ1Cft76Yw1x54=/0x545:4032x2964/640x/s3/static.nrc.nl/bvhw/files/2015/12/melad.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/zqD4MJXo_f8OBztxGzhFVagtlTQ=/0x588:2756x2242/320x/s3/static.nrc.nl/images/2015/12/24/stripped/2412zatsyrdef.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/lJ_EWLqvpMo3TT13NXJSEP4TxiY=/320x192/smart/s3/static.nrc.nl/2412zatelnino.jpg
+
+192.168.42.11 just requested a GET images.nrc.nl/daWhfb_IX6NCt330rzDbF5JrJc4=/0x0:1280x768/320x/s3/static.nrc.nl/orkestdallas.jpg
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2F&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&n=1&f=00001&c=0.9&x=5161&m=5161&y=13291&o=320&w=471&j=30&R=1&W=0&I=0&E=45&e=8&r=&KK=0::5130::CZmxIDBSx6WFBpHCUBBy1y0KB-MZGc::*%5B%40id%3D%27%2Fsectie%2Fbuitenland%2F%27%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fa%5B1%5D::c::http%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&b=6329&t=lNJ-cBujZBBDEu4KjIlWiEBPSjM1&V=69&tz=-60&_acct=anon&sn=5&eS=01fc&EE=45&_
+
+192.168.42.11 just requested a GET www.nrc.nl/nieuws/2015/12/23/aangekomen-in-europa
+
+192.168.42.11 just requested a GET images.nrc.nl/DohTjv-ASooBfT306AOGpa2zVXc=/0x13:1280x781/320x/s3/static.nrc.nl/images/stripped/1280px-oriel_college_first_quad.jpg
+
+192.168.42.11 just requested a GET static.nrc.nl/2015/fotolink.css
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/15f993809a6ec95d5ae0bcb83c399166.svg
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/85cf9957bdd3ae496cc27784a9b52c1c.svg
+
+192.168.42.11 just requested a GET images.nrc.nl/2xGdezog6FFabVlbSbzFVj6lLcE=/640x/s3/static.nrc.nl/bvhw/files/2015/12/WEB_2312WEBGertdragend04-960x640.jpg
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/a557d994e95f61c7cd50b1eb4fb5752e.svg
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/5de821ac78d4d7468513c5438567116e.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/beb60e0780b921362263d1d2461bab39.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/166c516944f14cbb072703b4bd9aae61.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/b43d662423141ee001c3d28eb94ade91.woff2
+
+192.168.42.11 just requested a GET www.nrc.nl/bvhw/files/2015/12/orwa-300x225.jpg
+
+192.168.42.11 just requested a GET www.nrc.nl/static/front/js/build/0db43ac2a56e2c41be9501989014e9a8.svg
+
+192.168.42.11 just requested a GET images.nrc.nl/rbvmtOqd5pzs4u0uK89flYJGhdk=/300x225/smart/s3/static.nrc.nl/bvhw/files/2015/12/orwa.jpg
+
+192.168.42.11 just requested a GET www.i.matheranalytics.com/i?e=pv&url=http%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&page=Aangekomen%20in%20Europa%20-%20NRC&refr=http%3A%2F%2Fwww.nrc.nl%2F&auth=Gert%20van%20Langendonck&sec=bvhw&ptype=article&tv=js-2.2.10-c&tna=Mather&aid=v1&p=web&tz=Europe%2FBerlin&lang=en-US&cs=UTF-8&res=320x534&cd=32&cookie=1&f_jquery=1&tid=a9377229-0766-4e04-9cb8-1252a6fd1854&dtm=1450982956304&vp=320x415&ds=320x7778&vid=2&duid=02a5c3b5a2a61039&fp=3131137563&cid=93786&mrk=1585827&cx=eyJjYXRlZ29yeSI6eyJjYXRlZ29yaWVzIjpbWyJiIiwidiIsImgiLCJ3IiwiLCJdXX0sImtleXdvcmRzIjpbImJ2aHciXX0
+
+192.168.42.11 just requested a GET track.adform.net/Serving/TrackPoint/?pm=359898&ADFPageName=Artikel1&ADFdivider=%7C&ord=430450845276&Set1=en-US%7Cen-US%7C320x534%7C32&CPref=http%3A%2F%2Fwww.nrc.nl%2F&ADFtpmode=2&loc=http%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&g0=bvhw%2Cbvhw%2C&g1=Gert%20van%20Langendonck&n=1&f=00001&c=0&x=363&m=363&y=7778&o=320&w=471&j=45&R=1&W=0&I=0&E=0&e=0&v=%2F&K=0::5130::CZmxIDBSx6WFBpHCUBBy1y0KB-MZGc::*%5B%40id%3D%27%2Fsectie%2Fbuitenland%2F%27%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fa%5B1%5D::c::http%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&b=2911&t=CosIdMB7VoCBBe8t4BlfgydDHOhe6&V=69&z=t%3DlNJ-cBujZBBDEu4KjIlWiEBPSjM1%26E%3D46%26EE%3D46%26x%3D5190%26c%3D0.91%26y%3D13291%26w%3D415&i=Aangekomen%20in%20Europa&tz=-60&_acct=anon&sn=1&EE=0&_
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=nrc.nl&p=%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&u=Db40qHDsWKmBBjAQua&d=nrc.nl&g=19903&g0=bvhw%2Cbvhw%2C&g1=Gert%20van%20Langendonck&n=1&f=00001&c=0&x=363&m=363&y=7778&o=320&w=471&j=45&R=1&W=0&I=0&E=0&e=0&v=%2F&K=0::5130::CZmxIDBSx6WFBpHCUBBy1y0KB-MZGc::*%5B%40id%3D%27%2Fsectie%2Fbuitenland%2F%27%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fa%5B1%5D::c::http%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2015%2F12%2F23%2Faangekomen-in-europa&b=2911&t=CosIdMB7VoCBBe8t4BlfgydDHOhe6&V=69&z=t%3DlNJ-cBujZBBDEu4KjIlWiEBPSjM1%26E%3D46%26EE%3D46%26x%3D5190%26c%3D0.91%26y%3D13291%26w%3D415&i=Aangekomen%20in%20Europa&tz=-60&_acct=anon&sn=1&EE=0&_
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/advertising.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/js/organisms/ntv.advertorial.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/placeholders/std320-o.png
+
+192.168.42.11 just requested a GET media.nu.nl/m/hp9xmpiay8fq_wd320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxrcxawpoj_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxrcxawpoj_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxrcxawpoj_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/xf2xowba8yaz_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/erkxpctae848_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxdacabagt_sqr64.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxfnia25hh_wd320.jpg
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET privacy.nu.nl/script/consent.js
+
+192.168.42.11 just requested a GET rc.bt.ilsemedia.nl/Get/ilsemedia/JS/GetRcmd.js?ord=1450983004375
+
+192.168.42.11 just requested a GET rc.bt.ilsemedia.nl/Get/ilsemedia/JS/GetRcmd.js?ord=1450983004375
+
+192.168.42.11 just requested a GET www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.3.0&97493d3f11c0
+
+192.168.42.11 just requested a GET sat.sanoma.fi/js/sat.js
+
+192.168.42.11 just requested a GET media.nu.nl/m/ufsx0e2abegr_std160.jpg
+
+192.168.42.11 just requested a GET www.nu.nl/static/vendor/fontcustom/fonts/nunl_1077598ee2fd6b2c595b96bce226c2fc.woff?179ff8988d7f
+
+192.168.42.11 just requested a GET www.nu.nl/static/CACHE/js/7429d9503e00.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/CACHE/js/cbbb7a1c983a.js
+
+192.168.42.11 just requested a GET www.google-analytics.com/r/collect?v=1&_v=j40&a=1991923120&t=pageview&_s=1&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&_u=QEAAAAABI~&jid=1676400101&cid=15526140.1450983011&tid=UA-10557259-1&_r=1&cd1=1-kolom-medium&cd2=portrait&z=1432299697
+
+192.168.42.11 just requested a GET www.nu.nl/static/CACHE/js/51424ebeacf5.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/images/logos/nubranded_32.png?5e3b9eb052ee
+
+192.168.42.11 just requested a GET www.google-analytics.com/r/collect?v=1&_v=j40&a=1991923120&t=pageview&_s=1&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&_u=QEAAAAABI~&jid=1676400101&cid=15526140.1450983011&tid=UA-10557259-1&_r=1&cd1=1-kolom-medium&cd2=portrait&z=1432299697
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/forms/shared/inputbg.png?1fbd14092970
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=con&cid=&c_ver=2015.09.29.12.34.31%209311d11&c_events=0&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x0&eid=&sit=nunl&cha=web&cat=home&c_vmspot=undefined_87022091&c_screen=320x534&c_viewport=320x415&c_referrer=&c_currenturl=http%3A%2F%2Fwww.nu.nl%2F&c_hash=&rid=1450983011262&cb=1450983012477&ctz=60
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/p?c1=2&c2=6035634&c4=http://www.nu.nl/&ns__t=1450983012500&ns_c=UTF-8&c8=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&c7=http%3A%2F%2Fwww.nu.nl%2F&c9=
+
+192.168.42.11 just requested a GET www.nu.nl/api/playlists/slug/recommended?order_by=random
+
+192.168.42.11 just requested a GET www.nu.nl/static/vendor/royalslider/img/rs-default.png?0e40b16b1d60
+
+192.168.42.11 just requested a GET www.nu.nl/static/vendor/royalslider/img/preloader-white.gif?b79d10cfc46b
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/images/logos/apple-touch-icon.png
+
+192.168.42.11 just requested a GET www.nu.nl/static/vendor/royalslider/img/preloader-white.gif?b79d10cfc46b
+
+192.168.42.11 just requested a GET media.nu.nl/m/dp5x11papttw_wd640.jpg/vd-filialen-blijven-nog-zeker-twee-maanden-open.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/e13x78ran6ko_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxp6iapnl1_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/w46xa4caqtgb_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/zqvx4omaxrpx_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/vonxh7dam9w1_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/es7x7ybaugl8_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/75rxiwqaykcq_std320.jpg
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=2&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=algemeen&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=843255924
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=3&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=Achtergronden%20bij%20het%20nieuws&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1859731246
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=4&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=Jaaroverzicht%202015&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1420435587
+
+192.168.42.11 just requested a GET media.nu.nl/m/hj1xc3havcuy_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/3jzxxt6ai8b8_std320.jpg
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=5&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=2015%20in%20beeld&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1613866180
+
+192.168.42.11 just requested a GET media.nu.nl/m/vhwxbb3anco6_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/vuwxuqyahzcb_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/vyrxmzgah8dd_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/rofx147a6z8a_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1mxpr4atlnr_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/j9ox2s2awfku_wd640.jpg
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=6&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=Economie&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1285289955
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&ni=1&_s=7&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=homepage&ea=scroll&el=Sport&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=2119676883
+
+192.168.42.11 just requested a GET media.nu.nl/m/483xjs0ahqkg_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/i5xxwaaaqg6o_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/xdpxi1fa5l5a_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/5jvxrzmaaz7y_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/3y1xrxuais75_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/mp5xq0laet2x_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/d0ixdnfaiwb6_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/qf7xjzuaa9b3_wd640.jpg/de-indrukwekkendste-videos-van-2015
+
+192.168.42.11 just requested a GET media.nu.nl/m/k60xt0ca7rtg_wd640.jpg/de-opmerkelijkste-videos-van-2015
+
+192.168.42.11 just requested a GET media.nu.nl/m/tybxozmaxc1f_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/5g2x4q6a8o44_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/phhx655ayfdj_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1mxglra5an5_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/tupxn2aatb4m_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/v9gxokaavgu9_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1mxj1xalhhf_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxeaga0e28_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/mg9xa76adb58_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/mtpxb71a1dzj_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/bxwxvipalw9g_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/b02xr03aqh3x_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/7qzxarma5qu7_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/cw5xb37aagwj_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/pghxfbyavlgq_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/7qzxarma5qu7_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/q0cxwiyau99w_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/ne8x9kqajojl_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/qd3x5gwamln4_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/yv8xtv4azkip_std320.jpg
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/images/logos/favicon.ico
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/img/getoptin.gif?ord=5829354140441865
+
+192.168.42.11 just requested a GET js-agent.newrelic.com/nr-768.min.js
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/atoms/images/logos/favicon.ico
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/img/getoptin.gif?ord=5829354140441865
+
+192.168.42.11 just requested a GET privacy.snmmd.nl/site/nu.nl/synchronize/Rexh2gPrZ7zFTow2K0KTY71lWA3V729V6Js9XuRLNY6TCTgU2gx3V0We3yC7hYHl
+
+192.168.42.11 just requested a GET bam.nr-data.net/1/4702f272e2?a=3982566&pl=1450982974464&v=768.2acc9fa&to=YgdVbUYHW0tWURFYXVtNcUxaBUFRWFxKUkdHEFJXQDlGUUNXS0dbUBVEF1cJR10NegpcV2UDUFxiD1BP&ap=2905&be=446&fe=96133&dc=50485&f=%5B%22err%22,%22xhr%22,%22stn%22,%22ins%22%5D&perf=%7B%22timing%22:%7B%22of%22:1450982974464,%22n%22:0,%22dl%22:80,%22di%22:50927,%22ds%22:50931,%22de%22:53970,%22dc%22:96522,%22l%22:96553,%22le%22:96763,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:23,%22rp%22:34,%22rpe%22:58%7D,%22navigation%22:%7B%22ty%22:2%7D%7D&jsonp=NREUM.setToken
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/pixel/GY0hR8gi8j6Hq9z0mum2Qcxnezx9cmxLNvhCCF-bo5Xwzwg1Srp9Wxdnwc1GccS_iDCZ0s3mEVOr1g4PplglNQ%253D%253D
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/script/cookiebar.js
+
+192.168.42.11 just requested a GET logc210.xiti.com/hit.xiti?s=518538&s2=1&p=nu.nl_grotebalk%3A%3Aingeklapt&di=&ac=&an=&trn=1450983078986
+
+192.168.42.11 just requested a GET bin.snmmd.nl/m/m1nx5sqrhbgz.png
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1991923120&t=event&_s=8&dl=http%3A%2F%2Fwww.nu.nl%2F&ul=en-us&de=UTF-8&dt=NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=home&ea=main_articlelist_&el=articlelist_1_%2Fjaaroverzicht2015&_u=SEAAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1219966498
+
+192.168.42.11 just requested a GET www.nu.nl/jaaroverzicht2015
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=click&cid=&c_ver=2015.09.29.12.34.31%209311d11&c_events=1&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x1155&eid=&sit=nunl&cha=web&cat=home&c_vmspot=undefined_87022091&c_targetPage=%2Fjaaroverzicht2015&c_selector=%5Bdata-sac-marker%3D%27block.articlelist%27%5D&c_text=Jaaroverzicht%202015&c_custom_label=undefined&c_currentPage=http%3A%2F%2Fwww.nu.nl%2F&c_timestamp=Thu%20Dec%2024%202015%2019%3A51%3A19%20GMT%2B0100%20(CET)&rid=1450983011262&cb=1450983079876&ctz=60
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/jaaroverzicht2015-katern/
+
+192.168.42.11 just requested a GET www.nu.nl/static/img/placeholders/wd1280-o.png
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxgaham3wj_wd640.jpg
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/default/
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/jaaroverzicht2015-katern/
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/default/
+
+192.168.42.11 just requested a GET rc.bt.ilsemedia.nl/Get/ilsemedia/JS/GetRcmd.js?ord=1450983082472
+
+192.168.42.11 just requested a GET sat.sanoma.fi/js/sat.js
+
+192.168.42.11 just requested a GET cdn.krxd.net/controltag?confid=Hhv1fsXU
+
+192.168.42.11 just requested a GET rtax.criteo.com/delivery/rta/rta.js?netId=4457&cookieName=crtg_rta&rnd=39490300369&varName=crtg_content
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=673147484&t=pageview&_s=1&dl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&ul=en-us&de=UTF-8&dt=Jaaroverzicht%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&_u=QACAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=930468618
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/p?c1=2&c2=6035634&c4=http://www.nu.nl/jaaroverzicht2015&ns__t=1450983083651&ns_c=UTF-8&c8=Jaaroverzicht%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&c7=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&c9=http%3A%2F%2Fwww.nu.nl%2F
+
+192.168.42.11 just requested a GET www.nu.nl/api/playlists/slug/recommended?order_by=random
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=con&cid=&c_ver=2015.09.29.12.34.31%209311d11&c_events=0&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x317&eid=&sit=nunl&cha=web&cat=default&c_vmspot=1552175867_58825787&c_screen=320x534&c_viewport=320x471&c_referrer=http%3A%2F%2Fwww.nu.nl%2F&c_currenturl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&c_hash=&rid=1450983083203&cb=1450983087617&ctz=60
+
+192.168.42.11 just requested a GET beacon.krxd.net/cookie2json?callback=Krux.ns._default.kxjsonp_3pevents
+
+192.168.42.11 just requested a GET zoeken.startpagina.nl/nu/sanomasearch.min.js
+
+192.168.42.11 just requested a GET media.nu.nl/m/vyrxmzgah8dd_wd640.jpg/2015-jaar-met-grote-aanslagen-midden-van-enorme-vluchtelingencrisis.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/s3hxe7taav2y_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/izixz3dazpf6_wd640.jpg
+
+192.168.42.11 just requested a GET zoeken.startpagina.nl/nu/stylesheet.min.css
+
+192.168.42.11 just requested a GET media.nu.nl/m/7vxxu5xa2vqc_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/k60xt0ca7rtg_wd1280.jpg/de-opmerkelijkste-videos-van-2015
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=673147484&t=event&_s=2&dl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&ul=en-us&de=UTF-8&dt=Jaaroverzicht%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&ec=section-jaaroverzicht2015&ea=main_articlelist_&el=articlelist_11_%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&_u=SACAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=558100967
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=click&cid=&c_ver=2015.09.29.12.34.31%209311d11&c_events=1&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x839&eid=&sit=nunl&cha=web&cat=default&c_vmspot=1552175867_58825787&c_targetPage=%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&c_selector=%5Bdata-sac-marker%3D%27articlelist.jaaroverzicht2015.11%27%5D&c_text=Deze%20bekende%20mensen%20(en%20dieren)%20overleden%20in%202015&c_custom_label=undefined&c_currentPage=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&c_timestamp=Thu%20Dec%2024%202015%2019%3A51%3A42%20GMT%2B0100%20(CET)&rid=1450983083203&cb=1450983102851&ctz=60
+
+192.168.42.11 just requested a GET www.nu.nl/jaaroverzicht2015/4181146/bekende-mensen-en-dieren-overleden-in-2015.html
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=dom%3Abeforeunload&confid=Hhv1fsXU&_kpid=9ae1de1e-f2f8-4599-a15e-eb921b259f51&_kcp_s=nu.nl&_kcp_sc=default&_kcp_d=nu.nl&_knifr=2&_kpref_=http%3A%2F%2Fwww.nu.nl%2F&_kua_kx_tz=-60&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&t_navigation_type=0&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=2922&t_content_ready=8298&t_window_load=0&t_redirect=0&interchange_ran=true&userdata_was_requested=false&userdata_did_respond=false&sview=1&kplt0=10562&kplt1=10423&jsonp_requests=%2F%2Fbeacon.krxd.net%2Fcookie2json%2C1484
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/jaaroverzicht2015-artikel/
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxke9a22j8_wd640.jpg
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/default/
+
+192.168.42.11 just requested a GET media.nu.nl/m/c0bx6kua0nye_wd640.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/8f0xaviat9tg_std320.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/lo5xfpnainjf_std320.jpg
+
+192.168.42.11 just requested a GET rc.bt.ilsemedia.nl/Get/ilsemedia/JS/GetRcmd.js?ord=1450983106144
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET sat.sanoma.fi/js/sat.js
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=1222996764&t=pageview&_s=1&dl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&ul=en-us&de=UTF-8&dt=Deze%20bekende%20mensen%20(en%20dieren)%20overleden%20in%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&_u=QACAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=1079355001
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=con&cid=4181146&c_ver=2015.09.29.12.34.31%209311d11&c_events=0&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x0&eid=&sit=nunl&cha=web&cat=default&c_vmspot=7421212340_35665888&c_screen=320x534&c_viewport=320x415&c_referrer=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&c_currenturl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&c_hash=&rid=1450983109847&cb=1450983111189&ctz=60
+
+192.168.42.11 just requested a GET sat.sanoma.fi/sat/sat.gif?log=1&evt=con&cid=4181146&c_ver=2015.09.29.12.34.31%209311d11&c_events=0&c_session=w4teyzk6dg&c_id=nzq1pkc7hv&c_scroll=0x0&eid=&sit=nunl&cha=web&cat=default&c_vmspot=7421212340_35665888&c_screen=320x534&c_viewport=320x415&c_referrer=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&c_currenturl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&c_hash=&rid=1450983109847&cb=1450983111189&ctz=60
+
+192.168.42.11 just requested a GET s372.meetrics.net/bb-mx/prime/mtrcs_990688.js?pjid=990688&cpid=249269360&site=24112760&place=52830680&adc=212439560&cid=86344412600&node=VMspot_7421212340_97107752
+
+192.168.42.11 just requested a GET s372.meetrics.net/bb-mx/prime/mtrcs_990688.js?pjid=990688&cpid=356977880&site=24112760&place=52830680&adc=222299720&cid=84443722640&node=VMspot_7421212340_43370989
+
+192.168.42.11 just requested a GET s372.meetrics.net/bb-mxad/gettag
+
+192.168.42.11 just requested a GET merlin.nakko.com/index.php?SITE=1548&FORMAT=JS
+
+192.168.42.11 just requested a GET s372.mxcdn.net/bb-mx/serve/mtrcs_990688.js
+
+192.168.42.11 just requested a GET merlin.nakko.com/obanners/comsocket.js?server=any_static
+
+192.168.42.11 just requested a GET merlin.nakko.com/storage?id=1548&xdm_e=http%3A%2F%2Fwww.nu.nl&xdm_c=default6318&xdm_p=1
+
+192.168.42.11 just requested a GET dc435.s372.meetrics.net/bb-mx/submit?/do6kB0IAA/whFaBo0F0wF6vAv3E33FuuE1uBusFvqEhhFyvF2lFy6FpjFo0FywAx1Av0Ax4AxxA02AviElrFluFklFttEluFzlFutBluFtkEplFylFutBv2FlyFslFklFutBpuFtyAwxA1uAo0FtsF+pyFio0F0wF6vAv3E33FuuE1uBusFvqEhhFyvF2lFy6FpjFo0FywAx1A+k2FoywAx1AtxAytAyxAtwA56A1xAt5A5wA24A4tAyuAw4AxuAxtA5yAk3B43A4jE+qhFnx0A1wA54AzyAxyA44A25A5wA24A46Ax0A1wA54AzyAxyA53Az5A5wA24A4BE/k0FvDxgAwqFpkF95A5wA24A4mAjwFpkF9yA05Ay2A5zA2wAmzEp0Fl9By0AxxAy3A2wAmwEshFjlF91Ay4AzwA24AwmAhkFj9ByxAy0Az5A12AwmAjpFk9B42Az0A00AxyA2wAwmAuvFklF9WENzFwvF0fF30AyxAyxAyzA0wAf5B3xAw3A31Ay8ExgAwqFpkF95A5wA24A4mAjwFpkF9zA12A53A34A4wAmzEp0Fl9By0AxxAy3A2wAmwEshFjlF91Ay4AzwA24AwmAhkFj9ByyAyyA55A3yAwmAjpFk9B40A00Az3AyyA20AwmAuvFklF9WENzFwvF0fF30AyxAyxAyzA0wAf0BzzA3wA54A5BEMquF8hUkzFNCFAAAWCAAFXHShBGbAAWCAAFXHShBBPlAAAAAAAAB+w2APrAAAAAAAABdFEACWAAWCAPAAAAAAWCAOAAAAPhDAFAAdFETbqAAPMAAAAAAAABbqAAPKAAPcCdFErbqAAPAAAPcCdFEsbqAASksFEHbAAAAAAAAAAAAEAAA+w2AAAAAAAJAy0A5yA25Az2AwBEIA1yA4zAw2A4wAIAy0AxxAy3A2wAaAWNFzwFv0Ff3B0yAxyAxyAz0AwfE53AxwA33A1yALA42Az0A00AxyA2wAwBEJAyxAy0Az5A12AwBEbAAAAAAAAAAAAEAAAdFEAAAAAAAJAz1A25A33A44AwBEIA1yA4zAw2A4wAIAy0AxxAy3A2wAaAWNFzwFv0Ff3B0yAxyAxyAz0AwfE0zAz3Aw5A45ALA40A00Az3AyyA20AwBEJAyyAyyA55A3yAwBEcAAAAAAsEA6DAFAAAbqAAAAGBqhF2hFzjFypFw0F6iA8oE0tFs+B8iEvkF5gBz0F5sFl9BniEhjFrnFyvF1uFk6B0yFhuFzwFhyFluF0nB+8AviEvkF5+B8vAo0FtsF+iAEANQFVyBAAAAAAAAAAAAAA
+
+192.168.42.11 just requested a GET merlin.nakko.com/?SITE=1548&FORMAT=XHTML&UID=817559115387736&render_type=iframe&xdm_e=http%3A%2F%2Fwww.nu.nl&xdm_c=default6319&xdm_p=1
+
+192.168.42.11 just requested a GET dc435.s372.meetrics.net/bb-mx/submit?/do6kCYdAA/2xFSEylFx1FlzF0mF1sFszFjyFllFugBm1FssFzjFylFluFluFhiFslFkgB3pFukFv3Ff3FliFrpF0zF0vFyhFnlFpuFmvFg3EpuFkvF3fF3lFirFp0FpuFklF4lFkkFigB3pFukFv3Ff3FliFrpF0yFlxF1lFz0FhuFptFh0FpvFumFyhFtlFg3EpuFkvF3fF3lFirFp0FjhFujFlsFhuFptFh0FpvFumFyhFtlFg3EpuFkvF3fF3lFirFp0FjhFujFlsFylFx1FlzF0hFupFthF0pFvuFmyFhtFlgB3pFukFv3Ff3FliFrpF0yFlxF1lFz0FmpFslFz5Fz0FltFg3EpuFkvF3fF3lFirFp0FylFzvFs2FlsFvjFhsFmpFslFz5Fz0FltF1yFsgBjzFzfF3lFirFp0FLktFBL2wFBLkqFFlqwF55Aw2A44ALkmFBUkzFOBCdDAUEAPZJAKAANQBKbqAAC5DAXGACHAAqGACNAAtGACSAAwGACzAAyGACWAA2GACWAA4GACEBA5GARksFA
+
+192.168.42.11 just requested a GET ad.360yield.com/adj?p=629783&w=300&h=250&tz=-60&click3rd=&U=&kw=&optin=y
+
+192.168.42.11 just requested a GET ad.360yield.com/adj?p=804047&w=3&h=3&optin=&tz=-60&click3rd=&u=&kw=&mscom=enecoenerg,snsreaalgr,loralneder,procumulat,vodafone,achmeazilv,corendon,bayerbv,nuon,vaporlinq&mspro=ncislosangeles,utopia&vmspot=7421212340_97107752&idpid=804047&dfpzone=52830680&dfpord=249269360&dfpline=212439560&dfpimg=86344412600&position=center
+
+192.168.42.11 just requested a GET cm.g.doubleclick.net/pixel?google_nid=improvedigital&google_cm&google_sc&publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=155&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match
+
+192.168.42.11 just requested a GET ad.360yield.com/match?publisher_dsp_id=55&publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=155&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match&external_user_id=CAESEI5Gegu-kbokAbmrjccqmRg&google_cver=1
+
+192.168.42.11 just requested a GET creative.360yield.com/file/852/1x1.jpg
+
+192.168.42.11 just requested a GET adsby.bidtheatre.com/idmatch?publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=69&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match
+
+192.168.42.11 just requested a GET ip1.casalemedia.com/usermatch?s=178785&cb=http%3A%2F%2Fad.360yield.com%2Fmatch%3Fpublisher_dsp_id%3D81%26external_user_id%3D__UID__
+
+192.168.42.11 just requested a GET dsp.adfarm1.adition.com/cookie/?ssp=4&publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=105&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match
+
+192.168.42.11 just requested a GET ads.heias.com/x/heias.match/?_dpid=147&_dpver=1&publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=57&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match
+
+192.168.42.11 just requested a GET merlin.nakko.com/banner.php?CODE=&TID=6039&SITE=1548&UID=817559115387736&ts=1450983217082
+
+192.168.42.11 just requested a GET a.ligatus.com/?ids=76945&t=cb
+
+192.168.42.11 just requested a GET ad.360yield.com/match?expiration=1452192817&Expiration=1452192817&external_user_id=c5eadfd1-5511-4d98-8db0-5694dbda32e1&publisher_dsp_id=69
+
+192.168.42.11 just requested a GET ad.360yield.com/match?publisher_dsp_id=105&external_user_id=6095750652616507487&Expiration=1451588017
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/p?c1=2&c2=6035634&c4=http://www.nu.nl/jaaroverzicht2015/4181146/bekende-mensen-en-dieren-overleden-in-2015.html&ns__t=1450983117415&ns_c=UTF-8&c8=Deze%20bekende%20mensen%20(en%20dieren)%20overleden%20in%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&c7=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&c9=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/pagead/show_ads.js
+
+192.168.42.11 just requested a GET ad.360yield.com/match?publisher_dsp_id=55&publisher_user_id=0edbf1cb-f523-43d6-99d0-b22aff08cd10&publisher_dsp_id=155&publisher_call_type=redirect&publisher_redirecturl=http://ad.360yield.com/match&external_user_id=CAESEI5Gegu-kbokAbmrjccqmRg&google_cver=1
+
+192.168.42.11 just requested a GET pr-bh.ybp.yahoo.com/sync/casale/VI8vxsAoJlIAAFhxK1MAAALW%26334
+
+192.168.42.11 just requested a GET dc146.s372.meetrics.net/bb-mx/revoke?BTAx0A1wA54AzyAxyA53Az5A5wA24A4BE
+
+192.168.42.11 just requested a GET ad.360yield.com/match?publisher_dsp_id=57&external_user_id=0&Expiration=1451069617
+
+192.168.42.11 just requested a GET merlin.nakko.com/media/img/pixel.jpg?server=any_static
+
+192.168.42.11 just requested a GET a.ligatus.com/timeout.php?ids=76945
+
+192.168.42.11 just requested a GET media.nu.nl/m/m1oxngjambjy_wd640.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/h6sxm7mad9lz_wd640.jpg
+
+192.168.42.11 just requested a GET media.nu.nl/m/ufxx0tvahaho_wd640.jpg
+
+192.168.42.11 just requested a GET i.ligatus.com/com_global_img/oba-icon-15x15.png
+
+192.168.42.11 just requested a GET i.ligatus.com/com_global_img/oba-icon-NL-46x15.png
+
+192.168.42.11 just requested a GET i.ligatus.com/nl_global_img/adchoices_icon.gif
+
+192.168.42.11 just requested a GET i.ligatus.com/global_img/logo-ligatus_frei_58x15.gif
+
+192.168.42.11 just requested a GET i.ligatus.com/dmu/is/14/1/5/3/2/9/3/180_180-60_ligatus_.jpg
+
+192.168.42.11 just requested a GET x.ligatus.com/76945-3241/141-3037/669911-448373-_670023-378448-_689861-470929-_680171-388986-_669993-296621-_669985-445824-4000000106/14/737176/3/1/1450983224663/undefined//
+
+192.168.42.11 just requested a GET i.ligatus.com/dmu/is/14/8/3/5/2/1/180_geel-180-1415969005.jpg
+
+192.168.42.11 just requested a GET i.ligatus.com/dmu/is/14/5/8/4/4/7/180_180_180_1.jpg
+
+192.168.42.11 just requested a GET i.ligatus.com/dmu/is/14/1/1/1/1/7/0/180_180_04207607_180x60.jpg
+
+192.168.42.11 just requested a GET i.ligatus.com/dmu/is/14/1/5/1/8/8/0/180_OndernemerDecember-180-1418127071.jpg
+
+192.168.42.11 just requested a GET dsum.casalemedia.com/rum?cm_dsp_id=4&external_user_id=3003718203154018157
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/img/getoptin.gif?ord=5985979656688869
+
+192.168.42.11 just requested a GET cdn.krxd.net/userdata/get?pub=9ae1de1e-f2f8-4599-a15e-eb921b259f51&technographics=1&callback=Krux.ns._default.kxjsonp_userdata
+
+192.168.42.11 just requested a GET beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck
+
+192.168.42.11 just requested a GET privacy.snmmd.nl/site/nu.nl/synchronize/mvuXvS99r0wdYt4-sBH-vtIJ_j09JyhbLUDO8nRNf3q4ik7moGsNGtiJoBn1EZYH
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=user_data_timeout&confid=Hhv1fsXU&_kpid=9ae1de1e-f2f8-4599-a15e-eb921b259f51&_kcp_s=nu.nl&_kcp_sc=default&_kcp_d=nu.nl&_knifr=8&_kpref_=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015&_kua_kx_tz=-60&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kpa_mobkeywords=Jaaroverzicht%202015&_kpa_nu_url_path_1=jaaroverzicht2015&t_navigation_type=0&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=1143&t_content_ready=15233&t_window_load=-1&t_redirect=0&interchange_ran=true&userdata_was_requested=true&userdata_did_respond=false&sview=2&kplt0=10562&kplt1=10423&kplt2=11313&kplt3=45111&kplt4=62892&kplt5=65004&kplt6=30834&kplt7=28291&kplt8=20144&kplt9=68286&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2CNaN%2C%2F%2Fcdn.krxd.net%2Fuserdata%2Fget%2CNaN
+
+192.168.42.11 just requested a GET bam.nr-data.net/1/4702f272e2?a=3982566&pl=1450983103014&v=768.2acc9fa&to=YgdVbUYHW0tWURFYXVtNcUxaBUFRWFxKUkdHEFJXQDlGUUNXS0dbUBVEF1cJR10NcxdFW1YOUm9dA0I%3D&ap=906&be=877&fe=33016&dc=14360&f=%5B%22err%22,%22xhr%22,%22stn%22,%22ins%22%5D&perf=%7B%22timing%22:%7B%22of%22:1450983103014,%22n%22:0,%22u%22:337,%22ue%22:344,%22dl%22:511,%22di%22:15233,%22ds%22:15236,%22de%22:18317,%22dc%22:33865,%22l%22:33890,%22le%22:34506,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:64,%22rp%22:247,%22rpe%22:1390%7D,%22navigation%22:%7B%7D%7D&jsonp=NREUM.setToken
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/pixel/z1Pl2EfeVggjIv62fghFHR-J9G00-YaiVeLTzBHVDo439NKEGNkofxoc_6gTLw-oiDCZ0s3mEVOr1g4PplglNQ%253D%253D
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/script/cookiebar.js
+
+192.168.42.11 just requested a GET logc210.xiti.com/hit.xiti?s=518538&s2=1&p=nu.nl_grotebalk%3A%3Aingeklapt&di=&ac=&an=&trn=1450983140966
+
+192.168.42.11 just requested a GET www.nu.nl/block/json/topbar?section=jaaroverzicht2015
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a POST privacy.snmmd.nl/site/nu.nl/accept?origin=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html
+
+192.168.42.11 just requested a GET logc210.xiti.com/hit.xiti?s=518538&s2=1&p=clicks%3A%3Anu.nl_grotebalk%3A%3Aaccepteren&di=&ac=&an=&trn=1450983201663
+
+192.168.42.11 just requested a GET dc435.s372.meetrics.net/bb-mx/submit?/do6kFOYVAUkzFIBFFWACJBAFfGt1BCNDAzHBCtDAtGBCCRAAAAPTBAAAAAAAiAAAAPiAAAAAAAAhAAAACCDAAAARksFA
+
+192.168.42.11 just requested a GET privacy.www.nu.nl/forward/KygQ3U-l90vhp7GQEfxo-pGGKYcyoVq-kJoAF34dLh3VIGsOgd3vyV9z9BZc8_HKtqp8uEGiW3TkMvj4mP4_3IpgQ5vUykYnkUP6MNzqFmiCr3L_xUpC6kg2HFFK8koBvCZmqYGSIEHj_OsT8_rSjrOiBSPkLVD3m_NW5bzgv7JIk_tqAQGI34MCp-lmtrlx?next=http%3A//www.nu.nl/jaaroverzicht2015/4181146/bekende-mensen-en-dieren-overleden-in-2015.html
+
+192.168.42.11 just requested a GET www.nu.nl/jaaroverzicht2015/4181146/bekende-mensen-en-dieren-overleden-in-2015.html
+
+192.168.42.11 just requested a GET dc435.s372.meetrics.net/bb-mx/submit?/do6kGtgVALkxBBLklFCTkzFARksFA
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/jaaroverzicht2015-artikel/
+
+192.168.42.11 just requested a GET cts.snmmd.nl/service/js/nunl/default/
+
+192.168.42.11 just requested a GET rc.bt.ilsemedia.nl/Get/ilsemedia/JS/GetRcmd.js?ord=1450983204800
+
+192.168.42.11 just requested a GET rtax.criteo.com/delivery/rta/rta.js?netId=4457&cookieName=crtg_rta&rnd=41080250218&varName=crtg_content
+
+192.168.42.11 just requested a GET www.googletagservices.com/tag/js/gpt.js
+
+192.168.42.11 just requested a GET sat.sanoma.fi/js/sat.js
+
+192.168.42.11 just requested a GET www.google-analytics.com/collect?v=1&_v=j40&a=893901034&t=pageview&_s=1&dl=http%3A%2F%2Fwww.nu.nl%2Fjaaroverzicht2015%2F4181146%2Fbekende-mensen-en-dieren-overleden-in-2015.html&ul=en-us&de=UTF-8&dt=Deze%20bekende%20mensen%20(en%20dieren)%20overleden%20in%202015%20%7C%20NU%20-%20Het%20laatste%20nieuws%20het%20eerst%20op%20NU.nl&sd=32-bit&sr=320x534&vp=320x415&je=0&_u=QACAAAABI~&jid=&cid=15526140.1450983011&tid=UA-10557259-1&cd1=1-kolom-medium&cd2=portrait&z=548197479
+
+192.168.42.11 just requested a GET ad.360yield.com/adj?p=629783&w=300&h=250&tz=-60&click3rd=&U=o4jpyay81&kw=&optin=y
+
+192.168.42.11 just requested a GET www.volkskrant.nl/
+
+192.168.42.11 just requested a GET www.googletagmanager.com/gtm.js?id=GTM-KX8PFJ
+
+192.168.42.11 just requested a GET static3.persgroep.net/volkskrant/static/img/volkskrant/cookiewall-sharp.jpg?r=f1640927
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/c2/11464450/cs.js
+
+192.168.42.11 just requested a GET cdn.krxd.net/controltag?confid=J6GtHece
+
+192.168.42.11 just requested a GET www.google-analytics.com/plugins/ua/linkid.js
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&nb_01=de_persgroep_nederland&nb_02=de_persgroep_nederland_advertising&nb_11=web&nb_12=volkskrant&nb_21=&nb_22=&nb_23=&nb_24=&nb_25=volkskrant&nb_26=&nb_27=unknown&nb_28=index&nb_29=general&nb_30=&ns__t=1450983234628&ns_c=UTF-8&c8=Cookiewall%3A%20Cookies%20op%20de%20Volkskrant%20%7C%20de%20Volkskrant&c7=http%3A%2F%2Fwww.volkskrant.nl%2F&c9=https%3A%2F%2Fwww.google.nl%2F
+
+192.168.42.11 just requested a GET w.usabilla.com/622f64ec0196.js?lv=1
+
+192.168.42.11 just requested a GET beacon.krxd.net/cookie2json?callback=Krux.ns.depersgroep.kxjsonp_3pevents
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=dom%3Abeforeunload&confid=J6GtHece&_kpid=678a0443-885f-4b50-bb7c-18cf0f0549bf&_kcp_s=volkskrant&_kcp_d=volkskrant.nl&_knifr=1&_kpref_=https%3A%2F%2Fwww.google.nl%2F&_kua_kx_tz=-60&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&t_navigation_type=0&t_dns=5220&t_tcp=143&t_http_request=-1&t_http_response=19&t_content_ready=5826&t_window_load=0&t_redirect=0&interchange_ran=false&userdata_was_requested=false&userdata_did_respond=false&sview=1&jsonp_requests=%2F%2Fbeacon.krxd.net%2Fcookie2json%2C595
+
+192.168.42.11 just requested a GET www.volkskrant.nl/cookiewall/accept?url=http%3A%2F%2Fwww.volkskrant.nl%2F
+
+192.168.42.11 just requested a GET www.volkskrant.nl/
+
+192.168.42.11 just requested a GET beacon.krxd.net/optout_check?callback=Krux.ns.depersgroep.kxjsonp_optOutCheck
+
+192.168.42.11 just requested a GET static2.persgroep.net/volkskrant/static/js/main-head.js?r=f1640927
+
+192.168.42.11 just requested a GET static.chartbeat.com/js/chartbeat_mab.js
+
+192.168.42.11 just requested a GET static2.persgroep.net/volkskrant/static/js/main.js?r=f1640927
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/82cfd648-eafb-413c-9861-e336d6f3fb1f?width=397&height=289
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/c9ae8773-e0e5-4eeb-8bc7-bebe7ba18875?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/b3ffd84f-7999-43fa-90b3-171204537535?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/9cfedfa8-94d1-49af-b7e9-9cc32a12efed?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/a82e9952-64a9-46e5-a016-64e8837e6ada?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/b5194f16-f87f-4639-8519-4b942d7dd11f?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/22509c60-e52c-4922-ac4c-97b005bd8f77?width=89&height=65
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/a96e303a-9092-4ad4-bcf8-365053de35a6?width=89&height=65
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/8222fd75-b1ea-454d-b37a-9ed06c13b758?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/a12d71fd-075c-45ea-9d5f-f8d087c629f6?width=89&height=65
+
+192.168.42.11 just requested a GET static4.persgroep.net/volkskrant/static/css/volkskrant/main.css?r=f1640927
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/9c47df7f-4b9e-4f60-93f5-f8805ca3b233?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/fcd1deb1-83a9-4daf-afcf-4a9b01b3a21f?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/a84bebbf-a2a8-4ada-9389-074d84ce12da?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/0d1b729f-071b-47f6-8db6-02d082446353?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/9b0355b3-bb13-4570-8e7d-b78459660032?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/a012cede-fd72-40b0-a76d-f07286fe7f32?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/63d608d2-7cfc-4610-839c-7cd5a8ee589e?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/c131d68f-f0c0-442e-94f2-dfe716848b74?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/6679e65d-138e-4582-a22a-d59cc1ade65f?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/ca7b38e5-933f-48e9-acfa-b99560e69e5c?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/0d7ea68f-0359-428d-9c38-8c3315c74b2e?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/0e375524-a44e-4f09-86fe-b18ae515e0cf?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/2206c1d8-8d5c-4a46-b278-a9033553a9cb?width=233
+
+192.168.42.11 just requested a GET mab.chartbeat.com/mab_strategy/headline_testing/get_strategy/?host=volkskrant.nl&domain=volkskrant.nl&path=%2F
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&nb_01=de_persgroep_nederland&nb_02=de_persgroep_nederland_advertising&nb_11=web&nb_12=volkskrant&nb_21=&nb_22=&nb_23=&nb_24=&nb_25=volkskrant&nb_26=&nb_27=voorpagina&nb_28=index&nb_29=general&nb_30=&ns__t=1450983253548&ns_c=UTF-8&c8=Nieuws%20%7C%20de%20Volkskrant&c7=http%3A%2F%2Fwww.volkskrant.nl%2F&c9=http%3A%2F%2Fwww.volkskrant.nl%2F
+
+192.168.42.11 just requested a GET w.usabilla.com/622f64ec0196.js?lv=1
+
+192.168.42.11 just requested a GET w.usabilla.com/622f64ec0196.js?lv=1
+
+192.168.42.11 just requested a GET optimized-by.rubiconproject.com/a/12108/43574/187720-15.js?&cb=0.8279819746967405&tk_st=1&rf=http%3A//www.volkskrant.nl/&rp_s=c&p_pos=btf&p_screen_res=320x534
+
+192.168.42.11 just requested a GET optimized-by.rubiconproject.com/a/12108/43650/188232-15.js?&cb=0.41543699335306883&tk_st=1&rf=http%3A//www.volkskrant.nl/&rp_s=c&p_pos=btf&p_screen_res=320x534
+
+192.168.42.11 just requested a GET ams1.ib.adnxs.com/ab?e=wqT_3QKmBvBCHQMAAAIA1gAFCMD_8LMFENbhuZ_PxpXNRBivzdbR3u2rsBUgASotCYAe3DPmngBAESMnzHewI_0_GeOlm8QgMBdAIRESBCmADSSgMLfk7QE4ywNA7AZIAlD8vIwSWNSqH2AAaJucAnjWCIABAYoBA1VTRJIFBvBamAGsAqAB-gGoAQGwAQC4AQLAAQXIAQDQAQDYAQDgAQDwAQD6AQcyMDI2NzMwigJXdWYoJ2EnLCA0ODY0NSwgMTQ1MDk4MzM2MCk7dWYoJ2MnLCAxMDQxMjIyOUYeACxyJywgMzc5NTMxNDg2HgDwwJICsQEhRXpKWG5nakZ3ZnNFRVB5OGpCSVlBQ0RVcWg4d0FqZ0FRQUJJN0FaUXQtVHRBVmdBWUw4Q2FBQndBbmotbndTQUFRS0lBZjZmQkpBQkFaZ0JBYUFCQ3FnQkE3QUJBTGtCTnlPRkxISlpfal9CQVlBZTNEUG1uZ0JBeVFHR3U5eU9oZkx2UDlrQm51LW54a3MzN1RfZ0FldnpEX1VCUkxTQlA0QUNBSmdDaW9UY0lnLi6aAh0heVFhVFFRakYutADwbDFLb2ZJQUEu0gIA2AKVBOAC4JQe6gIhaHR0cDovL3d3dy5ob21lcGFnZS52b2xrc2tyYW50Lm5s8gIPCgZBRFZfSUQSBTQ4NjQ18gIQCgZDUEdfSUQSBjg0MDc4MfICEQoFQ1BfSUQSCDEwNDEhahDyAg0KCAE5GEZSRVESATEFEDRSRU1fVVNFUhIBMPICDwkgNENPREUSA0ZGRPICEgoIAVkFEjQGZHVwX3By8gIkCgdDUAkUABkJFEhvc19pbnB1dF9zbWFydHBob25lAU4MBUlPXwGU8GQyNjA1ODeAAwCIAwGQAwCYAwygAwGqAwCwAwC4AwDAA6wCyAMA2AO3jzHgAwDoAwDwAwD4AwOABACSBAgvcnViaWNvbpgEAKIEDTgyLjE3MC4yMDkuMzGoBP6zD7IEBggAEAAYAA..&s=6c9966804bca5bbebee9f49eec926a8aa7ad3f1e&referrer=http%3A%2F%2Fwww.homepage.volkskrant.nl&pp=CEF5986E8487B39E
+
+192.168.42.11 just requested a GET eu-gce-user.bidswitch.net/sync?ssp=rubicon&dsp_id=4&imp=1
+
+192.168.42.11 just requested a GET ams1.ib.adnxs.com/if?e=wqT_3QKhBvDMGAMAAAIA1gAFCMD_8LMFENbhuZ_PxpXNRBivzdbR3u2rsBUgASotCWAF3JcolwBAEdlfdk8eFv0_GeOlm8QgMBdAISMnzHewI_0_KYAe3DPmngBAMLfk7QE4ywNA7AZIAlD8vIwSWNSqH2AAaJucAnjWCIABAYoBA1VTRJIBA1VTRJgBrAKgAfoBqAEBsAEAuAECwAEFyAEA0AEA2AEA4AEA8AEA-gEHMjAyNjczMIoCV3VmKCdhJywgNDg2NDUsIDE0NTA5ODMzNjApOwEbNGMnLCAxMDQxMjIyOSwgPh4ALHInLCAzNzk1MzE0ODYeAPDAkgKxASFFekpYbmdqRndmc0VFUHk4akJJWUFDRFVxaDh3QWpnQVFBQkk3QVpRdC1UdEFWZ0FZTDhDYUFCd0Fuai1ud1NBQVFLSUFmNmZCSkFCQVpnQkFhQUJDcWdCQTdBQkFMa0JOeU9GTEhKWl9qX0JBWUFlM0RQbW5nQkF5UUdHdTl5T2hmTHZQOWtCbnUtbnhrczM3VF9nQWV2ekRfVUJSTFNCUDRBQ0FKZ0Npb1RjSWcuLpoCHSF5UWFUUVFqRi60APBCMUtvZklBQS7YApUE4ALglB7qAiFodHRwOi8vd3d3LmhvbWVwYWdlLnZvbGtza3JhbnQubmzyAg8KBkFEVl9JRBIFNCFeHPICEAoGQ1BHARI0Bjg0MDc4MfICEQoFQ1ABEgAIMWc88gINCghBRFZfRlJFURIBMQUQNFJFTV9VU0VSEgEw8gIPCSA0Q09ERRIDRkZE8gISCggBWQUSNAZkdXBfcHLyAiQKB0NQCRQAGQkUSG9zX2lucHV0X3NtYXJ0cGhvbmUBTvBqBUlPX0lEEgYyNjA1ODeAAwCIAwGQAwCYAwygAwGqAwCwAwC4AwDAA6wCyAMA2AO3jzHgAwDoAwDwAwD4AwOABACSBAgvcnViaWNvbpgEAKIEDTgyLjE3MC4yMDkuMzGoBACyBAYIABAAGAA.&s=1cd2cb7568814c0de16d9c8570c29f663da7ce5e&referrer=http%3A%2F%2Fwww.homepage.volkskrant.nl
+
+192.168.42.11 just requested a GET ams1.ib.adnxs.com/rd_log?e=wqT_3QLoBPDMXwIAAAIA1gAFCMD_8LMFENbhuZ_PxpXNRBivzdbR3u2rsBUgASotCWAF3JcolwBAEdlfdk8eFv0_GeOlm8QgMBdAISMnzHewI_0_KYAe3DPmngBAMLfk7QE4ywNA7AZIAlD8vIwSWNSqH2AAaJucAnjWCIABAYoBA1VTRJIBA1VTRJgBrAKgAfoBqAEBsAEAuAECwAEFyAEA0AEA2AEA4AEA8AEA-gEHMjAyNjczMIoCV3VmKCdhJywgNDg2NDUsIDE0NTA5ODMzNjApOwEbNGMnLCAxMDQxMjIyOSwgPh4ALHInLCAzNzk1MzE0ODYeAPDAkgKxASFFekpYbmdqRndmc0VFUHk4akJJWUFDRFVxaDh3QWpnQVFBQkk3QVpRdC1UdEFWZ0FZTDhDYUFCd0Fuai1ud1NBQVFLSUFmNmZCSkFCQVpnQkFhQUJDcWdCQTdBQkFMa0JOeU9GTEhKWl9qX0JBWUFlM0RQbW5nQkF5UUdHdTl5T2hmTHZQOWtCbnUtbnhrczM3VF9nQWV2ekRfVUJSTFNCUDRBQ0FKZ0Npb1RjSWcuLpoCHSF5UWFUUVFqRi60APCRMUtvZklBQS7YApUE4ALglB7qAiFodHRwOi8vd3d3LmhvbWVwYWdlLnZvbGtza3JhbnQubmyAAwCIAwGQAwCYAwygAwGqAwCwAwC4AwDAA6wCyAMA2AO3jzHgAwDoAwDwAwD4AwOABACSBAgvcnViaWNvbpgEAKIEDTgyLjE3MC4yMDkuMzGoBACyBAYIABAAGAA.&s=34400d542b49ca2b6d1943648024e5d7358c37de&referrer=http%3A%2F%2Fwww.homepage.volkskrant.nl&bdref=http%3A%2F%2Fwww.volkskrant.nl%2F&bdtop=true&bdifs=1&bstk=http%3A%2F%2Fwww.volkskrant.nl%2F,http%3A%2F%2Fwww.volkskrant.nl%2F&
+
+192.168.42.11 just requested a GET go.flx1.com/imp?id=6590&m=1&idmd5=&idsha1=&euid=1540423959176390319&csiz=300x250&sitid=964034&pubid=447774&cpid=10412229&liid=840781&plid=3895863&advid=48645&bid=2.077588&bidclr=2.073808&aid=4943358326423318742&cid=37953148&ecp=5.797&flp=0&flt=2&pl=2&ioid=260587&selid=459&lat=&lon=&r=http%3A%2F%2Fwww.homepage.volkskrant.nl
+
+192.168.42.11 just requested a GET ads.creative-serving.com/imp?buid=a7f5c9c4573c00da&ic=Jw6Ba4psB3KrJeoy-RIpxCx3A3HIPfOipj38nx00k87HUZu9aQssC6W8DBM0fkObwZfR5NxChThwPLNcuZhxpoGM2rAUwNl41BKI-vua6U8L4HngUa64zS8t7rZFEKfepLdSif.ERXbFgQblD1kZb5Poyb2sru0wDl1hT3U1VbdQXOq.1e3GfQl7qOyayUqOwtbFhU5-EPMpQH5ABATzac0v2rZC63NOaKjJrTiuNGS2H60kpV3C4Ix90o4PYzumQlRxen5Oi2Ir9VI1J6KgwchZPh46ZT182Q8vV3MWingUI9BB7h7vitQ5u2YHHSNcn-KyybquA6aVHGKfjB0v4hQxHIdStVDYkQVvjQNlKa19ePDg9nE-zMGILWFXlv1jw5jaesMWOFJHEHlr9C5s62W1HVMoYaygATPHEaQpNkKINYMErPyLQnnx.dtUDSRVpn3E5d74pHFbRg6MvTOLk.PeaNK7Wm89y1qKDOySZf0gLeoImAhsxx0RiDeAXNYri7xAynJKELXSJ.dVdd-H5j0m8ctgo3rOhn2XTs25ilFnaTAxjKOoc3.ClRxogc0RY9NOixT2MpNj-qEoJF-CdqS4L.baJs0wsY7Sk51X0-xCQ5JQEZzbl2Wug4LAp2IwM4fowT3VxoK4P9leT1JXVQm0GghOdCWdeg-bbTLAKEXmy0HzvDgAQ9aSi3LcK1JRb.DB1dDZJ1sGDxTLntnCuFWoGsyShOPDLg-CVUp4rRyCNWai3FCf0XPEoO0aNkc6D0.V.qZ4FPMHMqThKLEkN4zago2Y51ooz.USGPNYTYJmazeGugFqEPByDJUZB-ExJbUkF3P7VCTyAOGcayP7HkfZAQ7DCA==&t=adj&prc=2.358847&ssp_click_url=
+
+192.168.42.11 just requested a GET ib.adnxs.com/getuid?http://go.flx1.com/uid?anuid=$UID&t=&m=1&_rdnr=1
+
+192.168.42.11 just requested a GET go.flx1.com/uid?anuid=1540423959176390319&t=&m=1&_rdnr=1
+
+192.168.42.11 just requested a GET ib.adnxs.com/getuid?http://ads.creative-serving.com/cmadnx?adnx_id=$UID
+
+192.168.42.11 just requested a GET static2.creative-serving.com/wgn/2015-12-22/wgn_2015-12-22_banner_300x250_300x250_image_05423198.gif
+
+192.168.42.11 just requested a GET x.bidswitch.net/sync?dsp_id=4&user_id=2478fe87-7a6c-46ab-a7f5-c9c4573c00da&ssp=&expires=30&user_group=1
+
+192.168.42.11 just requested a GET ad.360yield.com/match?publisher_dsp_id=79&external_user_id=2478fe87-7a6c-46ab-a7f5-c9c4573c00da
+
+192.168.42.11 just requested a GET ads.creative-serving.com/cmadnx?adnx_id=1540423959176390319
+
+192.168.42.11 just requested a GET cm.g.doubleclick.net/pixel?google_nid=bdsw&google_cm=1&google_hm=PuC6ljKrT-ePIsEh9x9amQ==
+
+192.168.42.11 just requested a GET ib.adnxs.com/getuidnb?http%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D4894%26nid%3D1986%26put%3D$UID%26expires%3D30
+
+192.168.42.11 just requested a GET ad.turn.com/server/pixel.htm?fpid=6&sp=y
+
+192.168.42.11 just requested a GET pix04.revsci.net/D08734/a3/0/3/0.302?matchId=102
+
+192.168.42.11 just requested a GET ib.adnxs.com/getuidnb?http%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D4894%26nid%3D1986%26put%3D$UID%26expires%3D30
+
+192.168.42.11 just requested a GET sync.mathtag.com/sync/img?mt_exid=9
+
+192.168.42.11 just requested a GET match.adsrvr.org/track/cmf/rubicon
+
+192.168.42.11 just requested a GET rc.d.chango.com/m/rc
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/activeview?id=osdim&avi=BvjNFuz98Vt-pF-WEjAa73rLYCgAAAAAQATgByAEJwAIC4AIA4AQBoAYW&cid=5GimDZC75TgtLfZOURN31SJZqgc&ti=1&adk=2506598731&p=975,10,1225,310&tos=1316,0,0,0,0&mtos=1316,1316,1316,1316,1316&rs=3&ht=0&tfs=12567&tls=13883&fp=correlator%3D2553109897281536%26eid%3D108809080%26iu%3D%252F7594%252Fvk%252Fvk.site-small%252Fnieuws-voorpagina%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1450983254530%26adx%3D0%26ady%3D0%26ifi%3D2%26flash%3D0&tmo=44&tme=12530&tdl=3519&tcl=6793&abd=1-0-4&r=u&bs=320,471&bos=320,471&ps=320,5067&ss=320,534&tt=13886&pt=-1&deb=1-0-2-35-5--1&tvt=1332&uc=4&tgt=IMG&cl=1
+
+192.168.42.11 just requested a GET www.volkskrant.nl/buitenland/-merkels-meisje-krijgt-verblijfsvergunning~a4214071/
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=dom%3Abeforeunload&confid=J6GtHece&_kpid=678a0443-885f-4b50-bb7c-18cf0f0549bf&_kcp_s=volkskrant&_kcp_d=volkskrant.nl&_knifr=6&_kpref_=http%3A%2F%2Fwww.volkskrant.nl%2F&_kua_kx_tz=-60&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&t_navigation_type=0&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=686&t_content_ready=10079&t_window_load=0&t_redirect=330&interchange_ran=false&userdata_was_requested=false&userdata_did_respond=false&sview=2
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/activeview?id=osdtos&avi=BvjNFuz98Vt-pF-WEjAa73rLYCgAAAAAQATgByAEJwAIC4AIA4AQBoAYW&cid=5GimDZC75TgtLfZOURN31SJZqgc&ti=1&adk=2506598731&p=975,10,1225,310&tos=1592,0,0,0,0&mtos=1592,1592,1592,1592,1592&rs=3&ht=0&tfs=12567&tls=14159&fp=correlator%3D2553109897281536%26eid%3D108809080%26iu%3D%252F7594%252Fvk%252Fvk.site-small%252Fnieuws-voorpagina%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1450983254530%26adx%3D0%26ady%3D0%26ifi%3D2%26flash%3D0&tmo=44&tme=12530&tdl=3519&tcl=6793&abd=1-0-5&r=u&bs=320,415&bos=320,471&ps=320,5067&ss=320,534&tt=14166&pt=-1&deb=1-0-2-42-6--1&tvt=1612&uc=5&tgt=IMG&cl=1
+
+192.168.42.11 just requested a GET stats.persgroep.nl/statistics.js?publ=vkn&action=READ&type=ARTICLE&id=4214071&origin=SITE
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/f6163e3e-df3d-4377-8999-1044bf2de9bc?width=664&height=374
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/bf31599f-89c9-4e17-892f-5e030c1b1ceb?width=300
+
+192.168.42.11 just requested a GET platform.twitter.com/widgets.js
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&nb_01=de_persgroep_nederland&nb_02=de_persgroep_nederland_advertising&nb_11=web&nb_12=volkskrant&nb_21=1450965660&nb_22=&nb_23=&nb_24=&nb_25=volkskrant&nb_26=&nb_27=buitenland&nb_28=article&nb_29=general&nb_30=&ns__t=1450983277381&ns_c=UTF-8&c8=%27Merkels%20meisje%27%20krijgt%20verblijfsvergunning%20%7C%20Buitenland%20%7C%20de%20Volkskrant&c7=http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%2F&c9=http%3A%2F%2Fwww.volkskrant.nl%2F
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&nb_01=de_persgroep_nederland&nb_02=de_persgroep_nederland_advertising&nb_11=web&nb_12=volkskrant&nb_21=1450965660&nb_22=&nb_23=&nb_24=&nb_25=volkskrant&nb_26=&nb_27=buitenland&nb_28=article&nb_29=general&nb_30=&ns__t=1450983277381&ns_c=UTF-8&c8=%27Merkels%20meisje%27%20krijgt%20verblijfsvergunning%20%7C%20Buitenland%20%7C%20de%20Volkskrant&c7=http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%2F&c9=http%3A%2F%2Fwww.volkskrant.nl%2F
+
+192.168.42.11 just requested a GET w.usabilla.com/622f64ec0196.js?lv=1
+
+192.168.42.11 just requested a GET cdn.teads.tv/media/format.js
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/activeview?id=osdim&avi=Bp0Iw0z98VqfLI9LOWs-1lagOAAAAABABOAHIAQnAAgLgAgDgBAGgBhY&cid=5GiQIxHsJ38QTOn7rFl3EjzENCI&ti=1&adk=1919194959&p=584,0,634,320&tos=1064,0,0,0,0&mtos=1064,1064,1064,1064,1064&rs=3&ht=0&tfs=2825&tls=3889&fp=correlator%3D1973108570324992%26eid%3D108809080%252C108809007%26iu%3D%252F7594%252Fvk%252Fvk.site-small%252Fbuitenland%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252Fbuitenland%252F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1450983278601%26adx%3D0%26ady%3D0%26ifi%3D2%26flash%3D0&tmo=61&tme=1595&tdl=779&abd=1-0-8&r=u&bs=320,471&bos=320,471&ps=320,4604&ss=320,534&tt=3895&pt=-1&deb=1-0-1-51-9--1&tvt=2287&uc=8&tgt=nf&cl=0
+
+192.168.42.11 just requested a GET cdn.teads.tv/content/vpaid/assets/player_sound_off_rollon.png
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/p?C1=1&C2=17198971&C5=01
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET t.teads.tv/track?pid=31257&action=callJS&1450983292211
+
+192.168.42.11 just requested a GET t.teads.tv/track?pid=31257&action=adRequest&1450983292219
+
+192.168.42.11 just requested a GET t.teads.tv/track?pid=31257&action=slot_available&1450983292809
+
+192.168.42.11 just requested a GET t.teads.tv/track?pid=31257&action=noAd&1450983295209
+
+192.168.42.11 just requested a GET t.teads.tv/track?pid=31257&action=adCall&1450983296223
+
+192.168.42.11 just requested a GET static.chartbeat.com/js/chartbeat.js
+
+192.168.42.11 just requested a GET cdn.krxd.net/userdata/get?pub=678a0443-885f-4b50-bb7c-18cf0f0549bf&technographics=1&callback=Krux.ns.depersgroep.kxjsonp_userdata
+
+192.168.42.11 just requested a GET www.volkskrant.nl/apple-touch-icon-192x192.png
+
+192.168.42.11 just requested a GET apiservices.krxd.net/um?partner=vdna&r=http://e.visualdna.com/conversion&_kdpid=8f95f20d-4acf-43fc-9832-3f5174a166cc
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=volkskrant.nl&p=%2Fbuitenland%2F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%2F&u=f4ksmBtq3HyCzFvEC&d=volkskrant.nl&g=46966&g0=buitenland&g1=UNKNOWN&n=1&f=00001&c=0&x=1177&m=1177&y=4604&o=320&w=471&j=45&R=1&W=0&I=0&E=0&e=0&v=http%3A%2F%2Fwww.volkskrant.nl%2F&b=38699&t=OSqoeC8o-nAD_pZp2BnQMkNCjIR-E&V=69&i=%27Merkels%20meisje%27%20krijgt%20verblijfsvergunning%20%7C%20Buitenland%20%7C%20de%20Volkskrant&tz=-60&sn=1&EE=0&_
+
+192.168.42.11 just requested a GET e.visualdna.com/conversion?partner_user_id=JhPryEJj&api_key=krux&id=sync&bust=9723190.0&_kdpid=8f95f20d-4acf-43fc-9832-3f5174a166cc
+
+192.168.42.11 just requested a GET beacon.krxd.net/optout_check?callback=Krux.ns.depersgroep.kxjsonp_optOutCheck
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=user_data_timeout&confid=J6GtHece&_kpid=678a0443-885f-4b50-bb7c-18cf0f0549bf&_kcp_s=volkskrant&_kcp_d=volkskrant.nl&_knifr=10&_kpref_=http%3A%2F%2Fwww.volkskrant.nl%2F&_kua_kx_tz=-60&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&t_navigation_type=0&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=814&t_content_ready=2988&t_window_load=-1&t_redirect=0&interchange_ran=false&userdata_was_requested=true&userdata_did_respond=false&sview=3&kplt0=53016&kplt1=53017&kplt2=53018&kplt3=64743&kplt4=64744&kplt5=64745&kplt6=62490&kplt7=63547&kplt8=63112&kplt9=67545&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2CNaN%2C%2F%2Fcdn.krxd.net%2Fuserdata%2Fget%2CNaN
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=volkskrant.nl&p=%2Fbuitenland%2F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%2F&u=f4ksmBtq3HyCzFvEC&d=volkskrant.nl&g=46966&g0=buitenland&g1=UNKNOWN&n=1&f=00001&c=0.25&x=0&m=2326&y=4604&o=320&w=415&j=30&R=1&W=0&I=0&E=15&e=15&v=http%3A%2F%2Fwww.volkskrant.nl%2F&b=38699&t=OSqoeC8o-nAD_pZp2BnQMkNCjIR-E&V=69&tz=-60&sn=2&eS=4ff8&eM=0002&eD=0002&eR=0010&EE=15&_
+
+192.168.42.11 just requested a GET ping.chartbeat.net/ping?h=volkskrant.nl&p=%2Fbuitenland%2F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%2F&u=f4ksmBtq3HyCzFvEC&d=volkskrant.nl&g=46966&g0=buitenland&g1=UNKNOWN&n=1&f=00001&c=0.26&x=0&m=2326&y=4604&o=320&w=415&j=30&R=0&W=0&I=1&E=15&e=0&v=http%3A%2F%2Fwww.volkskrant.nl%2F&KK=0::195::B0sI_pCXfhuyrrBtz1qJhsa45FH::body%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fheader%5B1%5D%2Fdiv%5B1%5D%2Fnav%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Ful%5B2%5D%2Fli%5B2%5D%2Fa%5B1%5D::c::http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2F&b=38699&t=OSqoeC8o-nAD_pZp2BnQMkNCjIR-E&V=69&tz=-60&sn=3&EE=15&_
+
+192.168.42.11 just requested a GET www.volkskrant.nl/buitenland/
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/activeview?id=osdtos&avi=Bp0Iw0z98VqfLI9LOWs-1lagOAAAAABABOAHIAQnAAgLgAgDgBAGgBhY&cid=5GiQIxHsJ38QTOn7rFl3EjzENCI&ti=1&adk=1919194959&p=584,230,634,550&tos=8270,316,0,266,0&mtos=8135,8451,8451,8451,8451&rs=3&ht=0&tfs=2825&tls=39765&fp=correlator%3D1973108570324992%26eid%3D108809080%252C108809007%26iu%3D%252F7594%252Fvk%252Fvk.site-small%252Fbuitenland%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252Fbuitenland%252F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1450983278601%26adx%3D0%26ady%3D0%26ifi%3D2%26flash%3D0&tmo=61&tme=1595&tdl=779&abd=1-0-137&r=u&bs=320,415&bos=320,415&ps=320,4604&ss=320,534&tt=16482&pt=28820&deb=1-1-1-197-138-29&tvt=43694&uc=137&tgt=nf&cl=0
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/f5d6efb0-a9f5-42b5-bfe8-184d89e0e018?width=397&height=289
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/e1f3c0d9-e35a-478a-a954-a44f8e5d233e?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/61c043d1-066b-4c2a-af12-367a36ea74af?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/f49049ac-e779-44ec-a29c-b70ddc0e191d?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/ae67978d-1bd8-4a8e-ae55-aa798f32e80d?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/fdbfdc4d-10a8-4d6d-8490-0e0a67002db6?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/1f53e927-baf4-4c1e-873d-5641de4e2cd5?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/85562d5a-6f29-4762-8097-56934527fce6?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/f0d57520-0f19-4113-bb6b-e9169b6c2aed?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/16b8b764-28ac-4360-8b20-2da4d20902ba?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/6232c309-fdaf-4d36-b5d5-87a9f2e7040c?width=89&height=65
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/db71980a-9e03-40c9-a2ab-9d040b21c9cb?width=89&height=65
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/675c3206-e630-4803-aa34-15489b4fcc22?width=600&height=292
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/e10911a5-9860-4a93-8a2f-b884d8cef613?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/02cf2814-c59a-4f62-8e9c-1058d47a500b?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/1b325725-f5c1-4458-a817-70ef31bc0739?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/bcda4373-05fd-445d-8a6f-9c67ff43a3da?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/74df388e-7697-4d34-9f62-db66e481b99e?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/849c19af-5baa-453a-8a98-63139d4a33a6?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/763f6773-63fe-4e61-ae87-fab289a323fc?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/abab0340-92e0-42b8-967e-e845bb4e3208?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/1a8d3d47-8fe4-411b-92a0-4df7145e5538?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/5ce23f6b-d470-4d7e-a189-c16c7f37dcf0?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/fe90827e-1d07-4752-a959-8231957670cf?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/0c4646e2-ed9e-4740-9057-93767c9aadf4?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/88914ecc-ba22-4743-82c5-e128f38c6504?width=300
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/27a567df-e9b2-43a3-990b-410ad0075afa?width=300
+
+192.168.42.11 just requested a GET static0.persgroep.net/volkskrant/image/0bc45563-6513-46fc-9258-817931711e3f?width=300
+
+192.168.42.11 just requested a GET optimized-by.rubiconproject.com/a/12108/43650/188232-15.js?&cb=0.05526158958673477&tk_st=1&rf=http%3A//www.volkskrant.nl/buitenland/&rp_s=c&p_pos=btf&p_screen_res=320x534
+
+192.168.42.11 just requested a GET scripts.adrcdn.com/scripts/screenad_launch_9.4.0_scrambled.js
+
+192.168.42.11 just requested a GET scripts.adrcdn.com/scripts/screenad_core_9.4.0_scrambled.js
+
+192.168.42.11 just requested a GET cntr.adrcntr.com//i/?id=0e60d5c4d86f1bd3704c1168fe9689e2&ci=&ho=www.volkskrant.nl&pl=default&fl=0&sw=320&sh=534&rt=s&dnt=0&rn=2045700026&ca=98906471533
+
+192.168.42.11 just requested a GET media.adrcdn.com/ads/Greenchoice/3234333434/110642/banner_320x250.html?scrrefstr=scr_0e60d5c4d86f1bd3704c1168fe9689e2banner1450983378475&scrdebug=0&scrwidth=320&scrheight=250&scrdevtype=mobile&vars=&clicks=%5B%22https%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3DL%26ai%3DBJlyDC0B8VqnNH9TBb92SpuAC4var3AgAAAAQASAAOABYgtblocECYJGEk4X8F4IBF2NhLXB1Yi0zMDA2NDcwODkzMzQzNTA0sgERd3d3LnZvbGtza3JhbnQubmy6AQlnZnBfaW1hZ2XIAQnaASRodHRwOi8vd3d3LnZvbGtza3JhbnQubmwvYnVpdGVubGFuZC-YAvAuqQJxJX0JtWCyPsACAuACAOoCIS83NTk0L3ZrL3ZrLnNpdGUtc21hbGwvYnVpdGVubGFuZPgC_NEekAOMBpgDjAaoAwHgBAGQBgGgBhbYBgLYBwA%26num%3D0%26cid%3D5Ghe0BPZd3TbTs9Bl4hksJ7p%26sig%3DAOD64_1MO37wpf7zEMUR6oPYLVuWngJJlQ%26client%3Dca-pub-3006470893343504%26adurl%3Dhttps%3A%2F%2Fwww.greenchoice.nl%2Fdoemee%3Futm_source%3DMobile%26utm_medium%3Dcpc%26utm_content%3Dhalf%2520Page%26utm_campaign%3DMediaReverse_kwk2015f2%22%5D
+
+192.168.42.11 just requested a GET media.adrcdn.com/ads/Greenchoice/3234333434/110642/styles.css
+
+192.168.42.11 just requested a GET www.volkskrant.nl/buitenland/varoufakis-bood-duitsers-aan-hoofd-griekse-belastingdienst-te-leveren~a4213597/
+
+192.168.42.11 just requested a GET media.adrcdn.com/ads/Greenchoice/3234333434/110642/edge.6.0.0.min.js
+
+192.168.42.11 just requested a GET cstatic.weborama.fr/iframe/admire_sync.html?tu=%2F%2Fadmire.solution.weborama.fr%2Ffcgi-bin%2Fdispatch.fcgi%3Fn.A%3Dop%26n.src%3Dadrime%26n.country%3DNLD%26g.pu%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252Fbuitenland%252F%26g.ru%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252Fbuitenland%252F-merkels-meisje-krijgt-verblijfsvergunning~a4214071%252F
+
+192.168.42.11 just requested a GET static1.persgroep.net/volkskrant/image/7e128a56-dad5-4a76-b122-9c46d62ec799?width=664&height=374
+
+192.168.42.11 just requested a GET static2.persgroep.net/volkskrant/static/img/author_placeholder.png?r=f1640927
+
+192.168.42.11 just requested a GET b.scorecardresearch.com/b?c1=2&c2=11464450&ns_site=total&nb_01=de_persgroep_nederland&nb_02=de_persgroep_nederland_advertising&nb_11=web&nb_12=volkskrant&nb_21=1450947600&nb_22=&nb_23=&nb_24=&nb_25=volkskrant&nb_26=&nb_27=buitenland&nb_28=article&nb_29=general&nb_30=&ns__t=1450983341554&ns_c=UTF-8&c8=Varoufakis%20bood%20Duitsers%20aan%20hoofd%20Griekse%20belastingdienst%20te%20leveren%20%7C%20Buitenland%20%7C%20de%20Volkskrant&c7=http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2Fvaroufakis-bood-duitsers-aan-hoofd-griekse-belastingdienst-te-leveren~a4213597%2F&c9=http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2F
+
+192.168.42.11 just requested a GET w.usabilla.com/622f64ec0196.js?lv=1
+
+192.168.42.11 just requested a GET optimized-by.rubiconproject.com/a/12108/43650/188232-43.js?&cb=0.19701949949376285&tk_st=1&rf=http%3A//www.volkskrant.nl/buitenland/varoufakis-bood-duitsers-aan-hoofd-griekse-belastingdienst-te-leveren%7Ea4213597/&rp_s=c&p_pos=btf&p_screen_res=320x534
+
+192.168.42.11 just requested a GET eu-gce-user.bidswitch.net/sync?ssp=rubicon&dsp_id=4&imp=1
+
+192.168.42.11 just requested a GET ads.creative-serving.com/imp?buid=a7f5c9c4573c00da&ic=Cy0Xd-Z.HbFZKMZI3ZC4taTPVY32Bdh5LrQbI.YP2zc7Y1RwpdSPXfImLgVvpgsnMRrgjiSxOMV5i8usy9FB8kcRqaov5wi.ADY9A5J8XgDkXv-BanEiPOfJrGwgdxDc4Va2YbXOJ8yOsenga1Vy.vyjL09uK0ALL.cd9oXhAvl-H51e2GltJnSn1MkWK2sg.2LGIamO4JPzfftEuLrIuQCgR.hKCCCof29fJkCXz-FUeBVaKfAOBz3EfTUpq6Gct5jro6k7XWWZs0ryV23nIimK3U3JCc01I7tFpl5S9A9SL4u6mkyF1zRJM5R1b4-CRwmSph.hNSRYTj-nZ0WTRTo0ODaNGJAJse.xodCzLyyP8Oyy-StgkAi4n4G13nW3DgFIXkR2G1KILcylq5GJsn0Te9-OpaFmuKaNjRxVis3pnbXg8okeD6AuMbbH1tE7bsM42CNRcnJywlkgvnXNG9MBMFaHqIwTdMtsgUUiddSUYmM6DGjJgnk9CObEIYx2uqVy6Mjk1wkoCXjSJ0HGkALzbbztGR29fVA058GeL1rje1lXfLR3MpRjJ8tLfhjUpVDtOcHuv2EfnUw0imKpo3GhF2bNLgH6HmOTmC5xVhbqkNSPrWKjZxFqRAevfieC2jSV10e4G08WzMuUgU3wvXSwOJwXqLp--W-ag3ke1YjdDX2nNu8O68i6jceuFRxj9qYsCAHJMF33uy6zRlEFCrpTcd.lgW3pk5XnbciPXaC1SJ2JeQz8Qw-avcLXhfozQ5FDSDBVkIabhjiBCLWS-xIjNBRx4LeMJzDaQg0bcxBftYI048An5tKT25QERkLfDVvyKXuWqBVtjvUxcPFNqeRdAMw=&t=adj&prc=0.744289&ssp_click_url=
+
+192.168.42.11 just requested a GET static2.creative-serving.com/wgn/2015-12-15/wgn_2015-12-15_20618_chromebook_banner_persgroep_320x50_320x50_image_41527689.jpg
+
+192.168.42.11 just requested a GET x.bidswitch.net/sync?dsp_id=4&user_id=2478fe87-7a6c-46ab-a7f5-c9c4573c00da&ssp=&expires=30&user_group=1
+
+192.168.42.11 just requested a GET ads.creative-serving.com/cmr
+
+192.168.42.11 just requested a GET delivery.swid.switchads.com/adserver/info.php?action=STORE&info=IPON:3ee0ba96-32ab-4fe7-8f22-c121f71f5a99
+
+192.168.42.11 just requested a GET pixel.rubiconproject.com/tap.php?v=16829&nid=2820&put=2478fe87-7a6c-46ab-a7f5-c9c4573c00da&expires=30
+
+192.168.42.11 just requested a GET i.w55c.net/ping_match.gif?ei=RUBICON&rurl=http%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D4210%26nid%3D1523%26put%3D_wfivefivec_%26expires%3D30
+
+192.168.42.11 just requested a GET tap.rubiconproject.com/oz/feeds/krux/tokens?afu=JhPryEJj
+
+192.168.42.11 just requested a GET pixel.rubiconproject.com/tap.php?v=4210&nid=1523&put=b22c9919-a54a-498c-adaa-53f0665d1724&expires=30
+
+192.168.42.11 just requested a GET loadm.exelator.com/load?_kdpid=e4942ff0-4070-4896-a7ef-e6a5a30ce9f9&buid=JhPryEJj&p=204&g=270&j=0
+
+192.168.42.11 just requested a GET c1.adform.net/serving/cookie/match/?party=8
+
+192.168.42.11 just requested a GET e.visualdna.com/conversion?partner_user_id=JhPryEJj&api_key=krux&id=sync&bust=310230.0&_kdpid=8f95f20d-4acf-43fc-9832-3f5174a166cc
+
+192.168.42.11 just requested a GET beacon.krxd.net/pixel.gif?source=smarttag&fired=user_data_timeout&confid=J6GtHece&_kpid=678a0443-885f-4b50-bb7c-18cf0f0549bf&_kcp_s=volkskrant&_kcp_d=volkskrant.nl&_knifr=6&_kpref_=http%3A%2F%2Fwww.volkskrant.nl%2Fbuitenland%2F&_kua_kx_tz=-60&geo_country=nl&geo_region=nh&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kua_kx_geo_country=nl&_kua_kx_geo_region=nh&_kua_kx_tech_browser=Chrome%20Mobile&_kua_kx_tech_manufacturer=Google%20Inc.&_kua_kx_tech_device=Mobile&_kua_kx_tech_os=Android%204.x&t_navigation_type=0&t_dns=0&t_tcp=0&t_http_request=-1&t_http_response=1219&t_content_ready=2071&t_window_load=7615&t_redirect=0&interchange_ran=false&userdata_was_requested=true&userdata_did_respond=true&store_user_after=o4jpyay81&userdata_user=JhPryEJj%2Co4jpyay81&sview=5&kplt0=53016&kplt1=53017&kplt2=53018&kplt3=64743&kplt4=64744&kplt5=64745&kplt6=62490&kplt7=63547&kplt8=63112&kplt9=67545&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2C743%2C%2F%2Fcdn.krxd.net%2Fuserdata%2Fget%2C691
+
+192.168.42.11 just requested a GET e.visualdna.com/conversion?partner_user_id=JhPryEJj&api_key=krux&id=sync&bust=310230.0&_kdpid=8f95f20d-4acf-43fc-9832-3f5174a166cc
+
+192.168.42.11 just requested a GET pagead2.googlesyndication.com/activeview?id=osdim&avi=B7FTrE0B8VtXwEYWnbIz_ibAKAAAAABABOAHIAQnAAgLgAgDgBAGgBhY&cid=5Ghi7WeGZT4HhyRm5oSq7fz6trg&ti=1&adk=1919194959&p=678,0,728,320&tos=1170,0,0,0,0&mtos=1170,1170,1170,1170,1170&rs=3&ht=0&tfs=11478&tls=12648&fp=correlator%3D4103025985585152%26eid%3D108809080%252C108809035%26iu%3D%252F7594%252Fvk%252Fvk.site-small%252Fbuitenland%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.volkskrant.nl%252Fbuitenland%252Fvaroufakis-bood-duitsers-aan-hoofd-griekse-belastingdienst-te-leveren~a4213597%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1450983342445%26adx%3D0%26ady%3D0%26ifi%3D2%26flash%3D0&tmo=47&tme=1655&tdl=869&tcl=1014&abd=2-0-24&r=u&bs=320,471&bos=320,471&ps=320,4871&ss=320,534&tt=10147&pt=2525&deb=1-1-1-76-26-31&tvt=11007&uc=24&tgt=IMG&cl=1
+
+192.168.42.11 just requested a GET clients3.google.com/generate_204
+
+192.168.42.11 just requested a GET clients3.google.com/generate_2
